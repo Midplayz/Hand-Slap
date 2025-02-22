@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: dcf997776c54ffd479982865ac462f43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_0
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 20871
+        width: 1081
+        height: 1061
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f67e6f1c813104da2d9986872748a9
+      internalID: -1271381526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_1
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 20837
+        width: 876
+        height: 1275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818ba73186be7a4ea504959ec98bd77
+      internalID: -715338080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_2
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 21222
+        width: 67
+        height: 289
+      alignment: 9
+      pivot: {x: 0.47222626, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f5574d92233c448576d611af4148f
+      internalID: -585992794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_3
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 17850
+        width: 5588
+        height: 1680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e268dd39d5ec1e45b0079fb8635cb18
+      internalID: 1751536831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_4
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 16451
+        width: 2270
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801b97cb0941784daeb935b21bc5204
+      internalID: -1259696208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_5
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 16315
+        width: 2270
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fbc4f90596de54b8be3233f86247d5
+      internalID: -1036034979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13442
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28765ddc52da6204caedfd8e6383daa5
+      internalID: -892123739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_7
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 13467
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016111bc71982a94cacadcdbfd492f38
+      internalID: 267169940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_8
+      rect:
+        serializedVersion: 2
+        x: 7198
+        y: 13480
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65bd25c7cfbc4d49874ddd637bf164a
+      internalID: 65760909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_9
+      rect:
+        serializedVersion: 2
+        x: 7145
+        y: 10049
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f07591a4a9fa46b727319f1534854
+      internalID: -261018532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_10
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 10176
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c640494dd8e493449a6049dd14a99ee
+      internalID: -1646223852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10057
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833ff0404a74ed4aab7d8618240eac1
+      internalID: -1341099697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6430
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03481069e2ad2924d99dffbf56229b21
+      internalID: 1694841722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_13
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 6590
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f4f35222189e4f94a2ae1a0b04c91
+      internalID: -2080160847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_14
+      rect:
+        serializedVersion: 2
+        x: 7203
+        y: 6602
+        width: 2437
+        height: 2439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85e654dbcfecd4c9ca0eb8feff66b0
+      internalID: 1071669899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3323
+        width: 2672
+        height: 2540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4caa8161a7cc478f5cf9ed07f25bc
+      internalID: 1130963484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_16
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 3309
+        width: 2672
+        height: 2540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb1532ae8277741905ed974187cc5b
+      internalID: -1989899907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_17
+      rect:
+        serializedVersion: 2
+        x: 7714
+        y: 3318
+        width: 2672
+        height: 2540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e17839e283594e8200f2ef3374fec
+      internalID: -767477007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slap sprite sheet ingame_18
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 0
+        width: 5810
+        height: 1919
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ceb2477dbceea47aa58211584f6f8f
+      internalID: 1678482418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd3ea79d2bf140848ba4944d56421557
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      slap sprite sheet ingame_0: -1271381526
+      slap sprite sheet ingame_1: -715338080
+      slap sprite sheet ingame_10: -1646223852
+      slap sprite sheet ingame_11: -1341099697
+      slap sprite sheet ingame_12: 1694841722
+      slap sprite sheet ingame_13: -2080160847
+      slap sprite sheet ingame_14: 1071669899
+      slap sprite sheet ingame_15: 1130963484
+      slap sprite sheet ingame_16: -1989899907
+      slap sprite sheet ingame_17: -767477007
+      slap sprite sheet ingame_18: 1678482418
+      slap sprite sheet ingame_2: -585992794
+      slap sprite sheet ingame_3: 1751536831
+      slap sprite sheet ingame_4: -1259696208
+      slap sprite sheet ingame_5: -1036034979
+      slap sprite sheet ingame_6: -892123739
+      slap sprite sheet ingame_7: 267169940
+      slap sprite sheet ingame_8: 65760909
+      slap sprite sheet ingame_9: -261018532
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
